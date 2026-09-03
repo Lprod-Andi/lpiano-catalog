@@ -1,4 +1,149 @@
 {
   "version": 1,
-  "songs": []
+  "songs": [
+    {
+      "id": "alle_jahre_wieder",
+      "title": "Alle Jahre wieder",
+      "type": "MIDI_MELODY",
+      "category": "Weihnachten",
+      "composer": "Friedrich Silcher (1837)",
+      "congregation": null,
+      "difficulty": "EASY",
+      "fileName": "alle_jahre_wieder.mid",
+      "fileSize": 604,
+      "sha256": "84747eabc77310c9a67e672088ade9272158f9cf8d678a43559dc72da6353546"
+    },
+    {
+      "id": "amazing_grace",
+      "title": "Amazing Grace",
+      "type": "MIDI_MELODY",
+      "category": "Anbetung",
+      "composer": "Melodie: New Britain (1835)",
+      "congregation": null,
+      "difficulty": "EASY",
+      "fileName": "amazing_grace.mid",
+      "fileSize": 703,
+      "sha256": "925f95d317971f19ae567ed6af7860743386fc4571bd9866c16b229b219a125d"
+    },
+    {
+      "id": "ein_feste_burg",
+      "title": "Ein feste Burg ist unser Gott",
+      "type": "MIDI_MELODY",
+      "category": "Lobpreis",
+      "composer": "Martin Luther (1529)",
+      "congregation": null,
+      "difficulty": "MEDIUM",
+      "fileName": "ein_feste_burg.mid",
+      "fileSize": 1054,
+      "sha256": "ac9e317cc6d657ec2a9c58f1b1eb96b860edbe75152ac618262af1ce2bd4a6bd"
+    },
+    {
+      "id": "haschen_nach_dem_wind",
+      "title": "Haschen nach dem Wind",
+      "type": "MP3_JAM",
+      "category": "Lobpreis",
+      "composer": null,
+      "congregation": null,
+      "difficulty": "MEDIUM",
+      "fileName": "haschen_nach_dem_wind.mp3",
+      "fileSize": 5377297,
+      "sha256": "f85d5e1c13352a8f1814d12965c395683e72ca8ddf3fbe592fc11d81f590b85a"
+    },
+    {
+      "id": "im_ziel",
+      "title": "Im Ziel",
+      "type": "MP3_JAM",
+      "category": "Lobpreis",
+      "composer": null,
+      "congregation": null,
+      "difficulty": "MEDIUM",
+      "fileName": "im_ziel.mp3",
+      "fileSize": 6453124,
+      "sha256": "abfa5c5ed3bd4cf5c718fea0ef088eef35abbcff18d11b7e5e2933e97787063d"
+    },
+    {
+      "id": "lass_dein_leben_nicht_bitter_sein",
+      "title": "Lass dein Leben nicht bitter sein",
+      "type": "MP3_JAM",
+      "category": "Lobpreis",
+      "composer": null,
+      "congregation": null,
+      "difficulty": "MEDIUM",
+      "fileName": "lass_dein_leben_nicht_bitter_sein.mp3",
+      "fileSize": 4488925,
+      "sha256": "6a4931eba80f95b306fefd0e4327cac94659c0c4490f77f7d9e9c700a3629b20"
+    },
+    {
+      "id": "lass_deinen_segen_regnen",
+      "title": "Lass deinen Segen regnen",
+      "type": "MP3_JAM",
+      "category": "Lobpreis",
+      "composer": null,
+      "congregation": null,
+      "difficulty": "MEDIUM",
+      "fileName": "lass_deinen_segen_regnen.mp3",
+      "fileSize": 4304605,
+      "sha256": "1f545e443e9a81fe677691d5801dc99cbd9e48409e7b0bdfddc8c506852d7a16"
+    },
+    {
+      "id": "lobe_den_herren",
+      "title": "Lobe den Herren",
+      "type": "MIDI_MELODY",
+      "category": "Lobpreis",
+      "composer": "Melodie: Stralsund 1665 / Halle 1680",
+      "congregation": null,
+      "difficulty": "MEDIUM",
+      "fileName": "lobe_den_herren.mid",
+      "fileSize": 837,
+      "sha256": "a1a5aef3452c3aac1034f7682b70f0e5adb80c1924cf1a1f35555449f33cf28c"
+    },
+    {
+      "id": "mein_herz_tanzt_fuer_jesus",
+      "title": "Mein Herz tanzt für Jesus",
+      "type": "MP3_JAM",
+      "category": "Lobpreis",
+      "composer": null,
+      "congregation": null,
+      "difficulty": "MEDIUM",
+      "fileName": "mein_herz_tanzt_fuer_jesus.mp3",
+      "fileSize": 5121506,
+      "sha256": "c227382a0b45e48aa0d5654d3682136aa4f5d78d3312e816d2a50f6dabe688f4"
+    },
+    {
+      "id": "mein_puls_singt_hallelujah",
+      "title": "Mein Puls singt Hallelujah",
+      "type": "MP3_JAM",
+      "category": "Lobpreis",
+      "composer": null,
+      "congregation": null,
+      "difficulty": "MEDIUM",
+      "fileName": "mein_puls_singt_hallelujah.mp3",
+      "fileSize": 4774182,
+      "sha256": "f3dd06f3cdb78d104fe555a2b220d7531ccc33aca600099ec1146027f48c01dc"
+    },
+    {
+      "id": "ode_an_die_freude",
+      "title": "Ode an die Freude",
+      "type": "MIDI_MELODY",
+      "category": "Lobpreis",
+      "composer": "Ludwig van Beethoven (1824)",
+      "congregation": null,
+      "difficulty": "EASY",
+      "fileName": "ode_an_die_freude.mid",
+      "fileSize": 1162,
+      "sha256": "e7dfc1be8b1815d930ae3b9740b56d26d14a9b0f75732cad455ec392fc05d3ed"
+    },
+    {
+      "id": "stille_nacht",
+      "title": "Stille Nacht, heilige Nacht",
+      "type": "MIDI_MELODY",
+      "category": "Weihnachten",
+      "composer": "Franz Xaver Gruber (1818)",
+      "congregation": null,
+      "difficulty": "EASY",
+      "fileName": "stille_nacht.mid",
+      "fileSize": 839,
+      "sha256": "5b1615e6b67781f3a572451f89f207ddc79d9aee3114992df63924e6dbd24bf1"
+    }
+  ]
 }

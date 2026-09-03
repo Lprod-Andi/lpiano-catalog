@@ -1,0 +1,12 @@
+# Liedmaterial ist binaer — NIEMALS Zeilenende-Umwandlung.
+# Ohne diese Zeilen haengt es an Gits Auto-Erkennung; eine als Text
+# behandelte .mid/.mp3 kaeme auf dem Server beschaedigt an (die App
+# lehnt sie dann wegen sha256-Abweichung ab -> Download schlaegt fehl).
+*.mid  binary
+*.midi binary
+*.mp3  binary
+*.ogg  binary
+*.zip  binary
+
+# Katalogdateien werden vom Builder erzeugt und per HTTPS ausgeliefert.
+*.json text eol=lf

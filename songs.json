@@ -1,4 +1,70 @@
 {
   "version": 1,
-  "songs": []
+  "songs": [
+    { "fileName": "haschen_nach_dem_wind.mp3",
+      "title": "Haschen nach dem Wind",
+      "category": "Lobpreis",
+      "difficulty": "MEDIUM" },
+
+    { "fileName": "mein_puls_singt_hallelujah.mp3",
+      "title": "Mein Puls singt Hallelujah",
+      "category": "Lobpreis",
+      "difficulty": "MEDIUM" },
+
+    { "fileName": "lass_dein_leben_nicht_bitter_sein.mp3",
+      "title": "Lass dein Leben nicht bitter sein",
+      "category": "Lobpreis",
+      "difficulty": "MEDIUM" },
+
+    { "fileName": "mein_herz_tanzt_fuer_jesus.mp3",
+      "title": "Mein Herz tanzt für Jesus",
+      "category": "Lobpreis",
+      "difficulty": "MEDIUM" },
+
+    { "fileName": "lass_deinen_segen_regnen.mp3",
+      "title": "Lass deinen Segen regnen",
+      "category": "Lobpreis",
+      "difficulty": "MEDIUM" },
+
+    { "fileName": "im_ziel.mp3",
+      "title": "Im Ziel",
+      "category": "Lobpreis",
+      "difficulty": "MEDIUM" },
+
+    { "fileName": "ode_an_die_freude.mid",
+      "title": "Ode an die Freude",
+      "category": "Lobpreis",
+      "composer": "Ludwig van Beethoven (1824)",
+      "difficulty": "EASY" },
+
+    { "fileName": "alle_jahre_wieder.mid",
+      "title": "Alle Jahre wieder",
+      "category": "Weihnachten",
+      "composer": "Friedrich Silcher (1837)",
+      "difficulty": "EASY" },
+
+    { "fileName": "stille_nacht.mid",
+      "title": "Stille Nacht, heilige Nacht",
+      "category": "Weihnachten",
+      "composer": "Franz Xaver Gruber (1818)",
+      "difficulty": "EASY" },
+
+    { "fileName": "amazing_grace.mid",
+      "title": "Amazing Grace",
+      "category": "Anbetung",
+      "composer": "Melodie: New Britain (1835)",
+      "difficulty": "EASY" },
+
+    { "fileName": "lobe_den_herren.mid",
+      "title": "Lobe den Herren",
+      "category": "Lobpreis",
+      "composer": "Melodie: Stralsund 1665 / Halle 1680",
+      "difficulty": "MEDIUM" },
+
+    { "fileName": "ein_feste_burg.mid",
+      "title": "Ein feste Burg ist unser Gott",
+      "category": "Lobpreis",
+      "composer": "Martin Luther (1529)",
+      "difficulty": "MEDIUM" }
+  ]
 }
